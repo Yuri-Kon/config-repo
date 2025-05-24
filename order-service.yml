@@ -1,0 +1,9 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: order-service
+
+test:
+  message: Hello from Config Server - Order!
